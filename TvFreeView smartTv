@@ -12,13 +12,13 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat 
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="147" tvg-id="147" tvg-chno="147" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM 
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="148" tvg-id="148" tvg-chno="148" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="149" tvg-id="149" tvg-chno="149" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwaniHD" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
