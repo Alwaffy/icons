@@ -37,7 +37,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065892
+http://syok.tv:2082/3604/5345/22
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/114.png" group-title="myFreeview",114 TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
